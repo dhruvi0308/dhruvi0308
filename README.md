@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C and C++ language<br>🤝 I’m looking for help with Computer Science<br>💬 Ask me about programming<br>🌱 I’m currently learning C and C++ language
+🔭 I’m currently working on C and Python language<br>🤝 I’m looking for help with Computer Science<br>💬 Ask me about programming<br>🌱 I’m currently learning Python language
 
 
 ## 🌐 Socials:
